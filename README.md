@@ -19,8 +19,8 @@ This project focuses on performing exploratory data analysis (EDA) on a sports d
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/yourusername/Sports-Data-Analysis.git
-   cd Sports-Data-Analysis
+   git clone https://github.com/yourusername/Exploratory-Data-Analysis--RAGbot.git
+   cd Exploratory-Data-Analysis--RAGbot
    ```
 
 2. **Set Up the Environment**
@@ -32,14 +32,14 @@ This project focuses on performing exploratory data analysis (EDA) on a sports d
 3. **Run the Jupyter Notebook**
    - Open the Jupyter Notebook:
      ```
-     jupyter notebook notebooks/EDA_Sports_Data.ipynb
+     jupyter notebook notebooks/sports.ipynb
      ```
 
 4. **Explore the Data**
    - Execute the cells in the notebook to perform EDA and visualize the data.
 
 
-### Project Demonstration Video
+## Project Demonstration Video
 
 - The project demonstration video is available on Google Drive. You can view it [here](https://drive.google.com/file/d/16gHLQwwr0XMBqVIdjhO2_d_Ox0krg9cv/view?usp=drive_link).
 
